@@ -12,8 +12,7 @@ const BetterWay = () => {
                 </div>
             </div>
             <div>
-                <Image src="/vercel.svg" width={127} height={77} />
-
+                <Image src="/vercel.svg" width={227} height={177} />
             </div>
 
         </div>

@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import BetterWay from '../components/BetterWay'
 
 export default function Home() {
   return (
@@ -8,9 +9,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+
+
       <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
         Fortune app
       </main>
+      <BetterWay/>
         
     </div>
   )
