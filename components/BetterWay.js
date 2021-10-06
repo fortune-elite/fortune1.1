@@ -2,8 +2,8 @@
 
 const BetterWay = () => {
     return ( 
-        <div className=" bg-map flex flex-col items-center space-x-8  md:flex-col  lg:flex-row pt-0 px-5 md:pt-10 lg:pt-10">
-            <div className="px-5"> 
+        <div className=" bg-map flex flex-col items-center space-x-12  md:flex-col  lg:flex-row pt-0 px-5 md:pt-10 lg:pt-10">
+            <div className="px-24"> 
                 <h1 className="text-4xl py-2 font-medium text-black">A better way to invest your money and make it grow.</h1>
                 <p className="text-sm py-4">Fortune helps customers to achieve their monetary gooals by helping them save & invest . Fissure bills. Obtaining a loan. Control your money with spending analytics. </p>
                 <div className="flex space-x-4">
@@ -12,7 +12,7 @@ const BetterWay = () => {
                 </div>
             </div>
             <div>
-                <img className=" h-80 w-80" src="/Woman.png" />
+                <img className=" h-96 w-96" src="/Woman.png" />
             </div>
 
         </div>
