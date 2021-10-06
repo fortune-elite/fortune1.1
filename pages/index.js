@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import BetterWay from '../components/BetterWay'
+import WhyChooseUs from '../components/WhyChooseUs'
 
 export default function Home() {
   return (
@@ -12,7 +13,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center ">
 
       <BetterWay/>
-        
+      <WhyChooseUs/>
     </div>
     </>
   )
