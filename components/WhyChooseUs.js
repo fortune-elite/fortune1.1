@@ -1,5 +1,6 @@
 import { BsFillAlarmFill } from "react-icons/bs";
 import { BiBullseye } from "react-icons/bi";
+import { FaHandHoldingUsd } from "react-icons/fa";
 
 
 const WhyChooseUs = () => {
@@ -19,7 +20,7 @@ const WhyChooseUs = () => {
                 </div>
                 <div className="bg-gray-800 h-52 w-60  rounded-lg shadow-sm overflow-hidden">
                     <p className="text-sm text-white pt-10 px-5">Take out a loan against your escrow account</p>
-                    <BiBullseye className="text-9xl text-gray-400 ml-16 mt-8 " />
+                    <FaHandHoldingUsd className="text-9xl text-gray-400 ml-16 mt-8 " />
                 </div>
             </div>
         </div>
